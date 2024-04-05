@@ -1,0 +1,121 @@
+{
+    "Kopi": [
+        {
+            "nama": "Cappucino",
+            "foto": "images/produk/cappucino.jpg",
+            "harga": "20.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Kopi Susu",
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "harga": "18.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+          {
+            "nama": "Espresso",
+            "foto": "images/produk/product_espresso.jpg",
+            "harga": "16.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Americano",
+            "foto": "images/produk/americano.jpg",
+            "harga": "16.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Mocha",
+            "foto": "images/produk/mocha.jpg",
+            "harga": "16.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Latte",
+            "foto": "images/produk/product_latte.jpg",
+            "harga": "20.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Macchiato",
+            "foto": "images/produk/macchiato.jpg",
+            "harga": "23.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }, 
+        {
+            "nama": "Affogato",
+            "foto": "images/produk/affogato.jpg",
+            "harga": "25.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "nama": "Ice Tea",
+            "foto": "https://fajar.co.id/wp-content/uploads/2023/09/IMG_0741.jpg",
+            "harga": "12.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Milk Shake",
+            "foto": "https://preppykitchen.com/wp-content/uploads/2021/04/Milkshake-Recipe-Card.jpg",
+            "harga": "20.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        
+        {
+            "nama": "Milk Tea",
+            "foto": "https://takestwoeggs.com/wp-content/uploads/2021/04/Brown-Sugar-Milk-Tea-Boba-Recipe-Takestwoeggs-Easy-Asian-Inspired-Recipes-sq.jpg",
+            "harga": "20.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Matcha Latte",
+            "foto": "https://www.dictio.id/uploads/db3342/original/3X/2/5/25676b1e3356c8bb9edc7eacc06f26fed2958202.jpg",
+            "harga": "20.000",
+            "size": "250 Ml",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ],
+    "Cake": [
+        {
+            "nama": "Tiramisu Cake",
+            "foto": "https://i.pinimg.com/originals/3a/3a/1a/3a3a1a79394a3bb21e07486c49fbcf3e.jpg",
+            "harga": "30.000",
+            "size": "13x9",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Cheesecake",
+            "foto": "https://sugarspunrun.com/wp-content/uploads/2019/01/Best-Cheesecake-Recipe-2-1-of-1-4.jpg",
+            "harga": "30.000",
+            "size": "13x9",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Red Velvet Cake",
+            "foto": "https://assets.surlatable.com/m/6ae5b930e82d3ed1/72_dpi_webp-REC-505190-Red-Velvet-Layered-Cake.jpg",
+            "harga": "30.000",
+            "size": "13x9",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        },
+        {
+            "nama": "Black Forest Roll Cake",
+            "foto": "https://fibercreme.com/wp-content/uploads/2021/10/11.-Black-Forest-Roll-Cake.jpg",
+            "harga": "30.000",
+            "size": "13x9",
+            "link": "https://shopee.co.id/eaifjlesjfi"
+        }
+    ]
+}
