@@ -1,5 +1,5 @@
 
-baris_produk.innerHTML = "website dibajak"
+baris_produk.innerHTML = ""
 
 var data_mentah = null
 
